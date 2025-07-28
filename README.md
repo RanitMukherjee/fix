@@ -5,5 +5,5 @@
 - https://www.marktechpost.com/2025/01/10/top-9-different-types-of-retrieval-augmented-generation-rags/
 RAG Architecture
 
-https://blog.100xdevs.com/GSoC-Proposals-1ef7dfd1073580de9830ea9d774f9c7f
-https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b
+- https://blog.100xdevs.com/GSoC-Proposals-1ef7dfd1073580de9830ea9d774f9c7f
+- https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b
