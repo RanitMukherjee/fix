@@ -12,3 +12,4 @@
 
 ### Topics to Study
 - https://medium.com/@shivkushwaha305/why-use-rtk-query-over-axios-in-react-js-next-js-applications-0e3796a0179d
+- https://medium.com/@tiokachiu/top-8-best-grpc-testing-tools-b79f4488fcad
